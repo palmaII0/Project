@@ -11,11 +11,11 @@ git clone https://github.com/palmaII0/Project.git
 
 2. Установите необходимые зависимости:
 
-pip install tkinter
-pip install ttkbootstrap
-pip install requests
-pip install pymysql
-pip install flask
+- pip install tkinter
+- pip install ttkbootstrap
+- pip install requests
+- pip install pymysql
+- pip install flask
 
 3. Запустите проект:
 
